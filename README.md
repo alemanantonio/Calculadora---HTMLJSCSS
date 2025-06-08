@@ -1,5 +1,3 @@
-# Actualizar el contenido del README.md con la estructura de proyecto correctamente formateada
-readme_content_updated = """
 # 🧮 Calculadora Avanzada
 
 Una calculadora científica avanzada desarrollada en HTML, CSS y JavaScript. Este proyecto permite realizar operaciones matemáticas básicas y funciones científicas como raíces cuadradas, trigonometría y factoriales, todo con una interfaz moderna y responsiva.
